@@ -1,0 +1,12 @@
+The Battle of the Neighborhoods
+
+Introduction:
+Background:
+New York City (NYC) is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. 
+
+Problem Background:
+My client, a successful restaurant chain in Brazil is looking to expand in New York. They want to create a Brazilian steakhouse restaurant. However, he does not know in which neighborhood the restaurant would gain the most attention from customers and face the least competition from other steakhouses.
+
+Data:
+•	New York Dataset that contains the 5 boroughs and all the neighborhoods that exist in each borough as well as the latitude and longitude coordinates of each neighborhood: https://geo.nyu.edu/catalog/nyu_2451_34572
+•	Foursquare API to get all the venues and restaurant data in New York City.
