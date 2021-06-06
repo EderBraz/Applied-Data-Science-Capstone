@@ -7,4 +7,4 @@ Capstone Project for IBM Data science specialization
 
 * Extracting data from Foursquare APIs
 * Performing K-means clustering algorithm to segment neighborhoods
-* Geospatial visualization with folium library.,
+* Geospatial visualization with folium library.
